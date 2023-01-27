@@ -8,6 +8,13 @@
     "type": "git",
     "url": "https://github.com/TheCodeTherapy/thecodetheme-dark"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "TheCodeTherapy",
+    "TheCodeTheme",
+    "Marco Gomez"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
