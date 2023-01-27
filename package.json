@@ -6,7 +6,7 @@
   "publisher": "TheCodeTherapy",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/TheCodeTherapy/thecodetheme-dark"
   },
   "engines": {
     "vscode": "^1.74.0"
