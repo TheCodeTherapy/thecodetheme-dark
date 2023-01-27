@@ -1,24 +1,26 @@
 {
-  "name": "TheCodeTheme Dark",
+	"name": "TheCodeTheme Dark",
 	"colors": {
 		"editor.background": "#171721",
-    "editorGroupHeader.tabsBackground": "#171721",
+		"editorGroupHeader.tabsBackground": "#171721",
 		"activityBar.background": "#171721",
-    "minimap.background": "#171721",
-    "sideBar.background": "#171721",
-    "sideBarSectionHeader.background": "#171721",
-    "statusBar.background": "#171721",
-    "tab.activeBorder": "#171721",
-    "tab.inactiveBackground": "#171721",
-    "titleBar.activeBackground": "#171721",
-    "titleBar.border": "#171721",
-    "window.activeBorder": "#171721",
-    "window.inactiveBorder": "#171721",
-    "breadcrumb.background": "#17172100",
-    "editorGutter.background": "#17172100",
+		"minimap.background": "#171721",
+		"sideBar.background": "#171721",
+		"sideBarSectionHeader.background": "#171721",
+		"statusBar.background": "#171721",
+		"tab.activeBorder": "#777777",
+		"tab.inactiveBackground": "#171721",
+		"titleBar.activeBackground": "#171721",
+		"titleBar.border": "#171721",
+		"window.activeBorder": "#171721",
+		"window.inactiveBorder": "#171721",
+		"breadcrumb.background": "#17172100",
+		"editorGutter.background": "#17172100",
 		"sideBarTitle.foreground": "#17172100",
 		"tab.border": "#171721",
 		"activityBar.dropBorder": "#17172100",
+		"tab.activeBackground": "#171721",
+		"tab.lastPinnedBorder": "#cccccc33",
 		"activityBar.activeBorder": "#666666",
 		"activityBar.foreground": "#666666",
 		"tab.activeBorderTop": "#171721",
@@ -67,8 +69,6 @@
 		"statusBar.foreground": "#aaaaaa",
 		"statusBarItem.remoteBackground": "#16825d",
 		"statusBarItem.remoteForeground": "#ffffff",
-		"tab.activeBackground": "#212121",
-		"tab.lastPinnedBorder": "#cccccc33",
 		"terminal.inactiveSelectionBackground": "#3a3d41",
 		"tree.indentGuidesStroke": "#77777777",
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
@@ -702,78 +702,78 @@
 		//"welcomePage.background": null
 	},
 	"tokenColors": [
-    {
-      "scope": [
-        "string.quoted.double.tsx",
-        "string.quoted.double.ts",
-        "string.quoted.double.jsx",
-        "string.quoted.double.js",
-        "meta.import.tsx",
-        "meta.import.ts",
-        "meta.import.jsx",
-        "meta.import.js",
-        "source.tsx",
-        "source.ts",
-        "source.jsx",
-        "source.js",
-      ],
-      "settings": {
-        "foreground": "#eec99d",
-      }
-    },
-    {
-      "scope": [
-        "string.template.tsx",
-        "string.template.ts",
-        "string.template.jsx",
-        "string.template.js",
-      ],
-      "settings": {
-        "foreground": "#ffc99d",
-      }
-    },
-    {
+		{
+			"scope": [
+				"string.quoted.double.tsx",
+				"string.quoted.double.ts",
+				"string.quoted.double.jsx",
+				"string.quoted.double.js",
+				"meta.import.tsx",
+				"meta.import.ts",
+				"meta.import.jsx",
+				"meta.import.js",
+				"source.tsx",
+				"source.ts",
+				"source.jsx",
+				"source.js",
+			],
+			"settings": {
+				"foreground": "#eec99d",
+			}
+		},
+		{
+			"scope": [
+				"string.template.tsx",
+				"string.template.ts",
+				"string.template.jsx",
+				"string.template.js",
+			],
+			"settings": {
+				"foreground": "#ffc99d",
+			}
+		},
+		{
 			"scope": "keyword.operator",
 			"settings": {
 				"foreground": "#ff7777",
-        "fontStyle": "bold"
+				"fontStyle": "bold"
 			}
 		},
-    {
-      "scope": [
-        "variable.language.this.ts",
-        "variable.language.this.js",
-        "meta.block.ts",
-        "meta.block.js",
-        "meta.method.declaration.ts",
-        "meta.method.declaration.js",
-        "meta.class.ts",
-        "meta.class.js",
-        "meta.export.default.ts",
-        "meta.export.default.js",
-        "source.ts",
-        "source.js"
-      ],
-      "settings": {
-        "foreground": "#797979",
-        // "fontStyle": "bold"
-      }
-    },
-    {
-      "scope": [
-        "variable.object.property.ts",
-        "variable.object.property.js",
-        "variable.other.object.property.ts",
-        "variable.other.object.property.js",
-        "variable.other.property.ts",
-        "variable.other.property.js",
-      ],
-      "settings": {
-        "foreground": "#edcbac",
-        // "fontStyle": "bold"
-      }
-    },
-    {
+		{
+			"scope": [
+				"variable.language.this.ts",
+				"variable.language.this.js",
+				"meta.block.ts",
+				"meta.block.js",
+				"meta.method.declaration.ts",
+				"meta.method.declaration.js",
+				"meta.class.ts",
+				"meta.class.js",
+				"meta.export.default.ts",
+				"meta.export.default.js",
+				"source.ts",
+				"source.js"
+			],
+			"settings": {
+				"foreground": "#797979",
+				// "fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"variable.object.property.ts",
+				"variable.object.property.js",
+				"variable.other.object.property.ts",
+				"variable.other.object.property.js",
+				"variable.other.property.ts",
+				"variable.other.property.js",
+			],
+			"settings": {
+				"foreground": "#edcbac",
+				// "fontStyle": "bold"
+			}
+		},
+		{
 			"scope": [
 				"entity.name.function",
 				"support.function",
@@ -785,11 +785,11 @@
 				"foreground": "#dede99"
 			}
 		},
-    {
+		{
 			"scope": "comment",
 			"settings": {
 				"foreground": "#555555",
-        "fontStyle":"italic"
+				"fontStyle":"italic"
 			}
 		},
 		{
