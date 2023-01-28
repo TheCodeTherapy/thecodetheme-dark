@@ -18,6 +18,15 @@ The GLSL color theming was made to match the color scheme I created for my onlin
 
 ![TheCodeTheme Dark screenshot 4](https://raw.githubusercontent.com/TheCodeTherapy/thecodetheme-dark/main/screenshots/screenshot_04.png)
 
+Font I use (shown on the screenshots): **`'MesloLGS NF'`**
+
+You can download the MesloLGS Nerd Font Types here:
+
+- [MesloLGS NF Regular.ttf](https://github.com/TheCodeTherapy/thecodetheme-dark/raw/main/fonts/MesloLGS%20NF%20Regular.ttf)
+- [MesloLGS NF Bold.ttf](https://github.com/TheCodeTherapy/thecodetheme-dark/raw/main/fonts/MesloLGS%20NF%20Bold.ttf)
+- [MesloLGS NF Italic.ttf](https://github.com/TheCodeTherapy/thecodetheme-dark/raw/main/fonts/MesloLGS%20NF%20Italic.ttf)
+- [MesloLGS NF Bold Italic.ttf](https://github.com/TheCodeTherapy/thecodetheme-dark/raw/main/fonts/MesloLGS%20NF%20Bold%20Italic.ttf)
+
 Here's a list of the extensions I use most frequently:
 
 ```bash
