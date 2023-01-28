@@ -96,6 +96,24 @@
 		"editor.findMatchBackground": "#666666",
 		"editor.findMatchHighlightBackground": "#ffffff55",
 		"editor.findRangeHighlightBackground": "#ffffff55",
+		"statusBar.debuggingBackground": "#cc6633",
+		"statusBar.debuggingBorder": "#777777",
+		"statusBar.debuggingForeground": "#aaaaaa",
+		"statusBar.focusBorder": "#aaaaaa",
+		"statusBar.noFolderBackground": "#68217a",
+		"statusBar.noFolderBorder": "#777777",
+		"statusBar.noFolderForeground": "#aaaaaa",
+		"statusBarItem.activeBackground": "#ffffff2e",
+		"statusBarItem.compactHoverBackground": "#ffffff33",
+		"statusBarItem.errorBackground": "#c72e0f",
+		"statusBarItem.errorForeground": "#ffffff",
+		"statusBarItem.focusBorder": "#aaaaaa",
+		"statusBarItem.hoverBackground": "#ffffff1f",
+		"statusBarItem.prominentBackground": "#00000080",
+		"statusBarItem.prominentForeground": "#aaaaaa",
+		"statusBarItem.prominentHoverBackground": "#0000004d",
+		"statusBarItem.warningBackground": "#7a6400",
+		"statusBarItem.warningForeground": "#ffffff",
 		//"activityBar.inactiveForeground": "#ffffff66",
 		//"activityBarBadge.foreground": "#ffffff",
 		//"activityBarItem.profilesBackground": "#1b1b1b",
@@ -500,24 +518,6 @@
 		// "sideBar.dropBackground": "#53595d80",
 		//"sideBySideEditor.horizontalBorder": "#444444",
 		//"sideBySideEditor.verticalBorder": "#444444",
-		"statusBar.debuggingBackground": "#cc6633",
-		"statusBar.debuggingBorder": "#777777",
-		"statusBar.debuggingForeground": "#aaaaaa",
-		"statusBar.focusBorder": "#aaaaaa",
-		"statusBar.noFolderBackground": "#68217a",
-		"statusBar.noFolderBorder": "#777777",
-		"statusBar.noFolderForeground": "#aaaaaa",
-		"statusBarItem.activeBackground": "#ffffff2e",
-		"statusBarItem.compactHoverBackground": "#ffffff33",
-		"statusBarItem.errorBackground": "#c72e0f",
-		"statusBarItem.errorForeground": "#ffffff",
-		"statusBarItem.focusBorder": "#aaaaaa",
-		"statusBarItem.hoverBackground": "#ffffff1f",
-		"statusBarItem.prominentBackground": "#00000080",
-		"statusBarItem.prominentForeground": "#aaaaaa",
-		"statusBarItem.prominentHoverBackground": "#0000004d",
-		"statusBarItem.warningBackground": "#7a6400",
-		"statusBarItem.warningForeground": "#ffffff",
 		//"symbolIcon.arrayForeground": "#cccccc",
 		//"symbolIcon.booleanForeground": "#cccccc",
 		//"symbolIcon.classForeground": "#ee9d28",
@@ -783,6 +783,74 @@
 			],
 			"settings": {
 				"foreground": "#dede99"
+			}
+		},
+		{
+			"scope": [
+				"meta.object.member.ts",
+				"meta.object.member.js",
+				"meta.objectliteral.ts",
+				"meta.objectliteral.js",
+				"meta.var.expr.ts",
+				"meta.var.expr.js"
+			],
+			"settings": {
+				"foreground": "#a7c9ff",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"storage.type.glsl",
+			],
+			"settings": {
+				"foreground": "#74db74",
+			}
+		},
+		{
+			"scope": [
+				"support.function.glsl",
+			],
+			"settings": {
+				"foreground": "#e7c09c",
+			}
+		},
+		{
+			"scope": [
+				"storage.modifier.glsl",
+				"storage.modifier.precision.glsl"
+			],
+			"settings": {
+				"foreground": "#cbb5ff",
+			}
+		},
+		{
+			"scope": [
+				"constant.numeric.glsl",
+			],
+			"settings": {
+				"foreground": "#faa29a",
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator.assignment.glsl",
+				"keyword.operator.comparative.glsl",
+				"keyword.operator.arithmetic.glsl",
+				"keyword.operator.ternary.glsl"
+			],
+			"settings": {
+				"foreground": "#FF7777",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"support.variable.glsl",
+			],
+			"settings": {
+				"foreground": "#c5ff7a",
+				"fontStyle": "bold"
 			}
 		},
 		{
