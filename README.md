@@ -24,21 +24,27 @@ Here's a list of the extensions I use most frequently:
 TheCodeTherapy.thecodetheme-dark
 vscode-icons-team.vscode-icons
 boyswan.glsl-literal
+slevesque.shader
+ms-vscode.vscode-typescript-next
 christian-kohler.path-intellisense
+csstools.postcss
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 eamodio.gitlens
 EditorConfig.EditorConfig
 esbenp.prettier-vscode
 mikestead.dotenv
-ms-vscode.vscode-typescript-next
 Orta.vscode-jest
 philnash.ngrok-for-vscode
 roonie007.hide-files
-slevesque.shader
 steoates.autoimport
 stylelint.vscode-stylelint
 wayou.vscode-todo-highlight
+Zignd.html-css-class-completion
+rust-lang.rust-analyzer
+panicbit.cargo
+bungcip.better-toml
+dustypomerleau.rust-syntax
 ```
 
 If you want to send me suggestions, bug reports, or memes, get in touch on Twitter at [@TheCodeTherapy](https://twitter.com/TheCodeTherapy).
