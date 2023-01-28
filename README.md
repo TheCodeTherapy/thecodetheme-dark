@@ -1,5 +1,11 @@
 # thecodetheme-dark
 
+- Are you tired of those zen earthy nature-like pastel-based color schemes?
+- Do you laugh in the face of those who say you should avoid cold or bluish colors to avoid anxiety?
+- Do you want to do some eye-molesting coffee-induced insane 15+ hours of programming sessions and dream in code on a synth-wave-like dimension right after?
+
+## SAY NO MORE
+
 This is my custom Dark VSCode theme. I made it to work on my TypeScript + WebGL projects.
 
 The GLSL color theming was made to match the color scheme I created for my online shader editor. You can try it at [https://thecodetherapy.com](https://thecodetherapy.com).
