@@ -10,6 +10,8 @@ The GLSL color theming was made to match the color scheme I created for my onlin
 
 ![TheCodeTheme Dark screenshot 3](https://raw.githubusercontent.com/TheCodeTherapy/thecodetheme-dark/main/screenshots/screenshot_03.png)
 
+![TheCodeTheme Dark screenshot 4](https://raw.githubusercontent.com/TheCodeTherapy/thecodetheme-dark/main/screenshots/screenshot_04.png)
+
 Here's a list of the extensions I use most frequently:
 
 ```bash
