@@ -4,6 +4,8 @@ This is my custom Dark VSCode theme. I made it to work on my TypeScript + WebGL 
 
 The GLSL color theming was made to match the color scheme I created for my online shader editor. You can try it at [https://thecodetherapy.com](https://thecodetherapy.com).
 
+![TheCodeTheme Dark screenshot](https://raw.githubusercontent.com/TheCodeTherapy/thecodetheme-dark/main/screenshot.png)
+
 Here's a list of the extensions I use most frequently:
 
 ```bash
