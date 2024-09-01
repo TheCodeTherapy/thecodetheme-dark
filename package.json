@@ -2,7 +2,7 @@
   "name": "thecodetheme-dark",
   "displayName": "TheCodeTheme Dark",
   "description": "TheCodeTherapy VSCode Dark Theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "TheCodeTherapy",
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "screenshots/thumbnail.png",
   "contributes": {
     "themes": [
       {
