@@ -121,9 +121,11 @@
     "editor.findMatchBackground": "#666666",
     "editor.findMatchHighlightBackground": "#ffffff55",
     "editor.findRangeHighlightBackground": "#ffffff55",
-    "statusBar.debuggingBackground": "#cc6633",
-    "statusBar.debuggingBorder": "#777777",
-    "statusBar.debuggingForeground": "#aaaaaa",
+
+    "statusBar.debuggingBackground": "#002100",
+    "statusBar.debuggingForeground": "#aaffaa",
+    "statusBar.debuggingBorder": "#aaffaa",
+
     "statusBar.focusBorder": "#aaaaaa",
     "statusBar.noFolderBackground": "#68217a",
     "statusBar.noFolderBorder": "#777777",
